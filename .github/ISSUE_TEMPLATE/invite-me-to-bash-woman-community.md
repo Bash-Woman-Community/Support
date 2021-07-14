@@ -16,12 +16,13 @@ Please invite me to the GitHub Community Organisation.
 <!--more-specification(if any)-->
 
 <!--Some Details-->
-- #### Name:
+- #### Name: Ayush Parikh
 
 - #### Discord Username(if exists): 
-<!--https://discord.gg/R3cnnK6fy9 (link to our discord server)-->
+<!--https://discord.gg/R3cnnK6fy9 (link to our discord server)--> ayush#4924
 
 - #### Additional Context:
-<!--How you came to know about this community?-->
+<!--How you came to know about this community?--> from github
 
 <!--Why do you want to join?-->
+am looking forward to collaborate to the community
